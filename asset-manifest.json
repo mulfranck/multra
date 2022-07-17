@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.630a4b7c.css",
-    "main.js": "/static/js/main.b4a3113e.js",
-    "index.html": "/index.html",
-    "main.630a4b7c.css.map": "/static/css/main.630a4b7c.css.map",
-    "main.b4a3113e.js.map": "/static/js/main.b4a3113e.js.map"
+    "main.css": "/multra/static/css/main.630a4b7c.css",
+    "main.js": "/multra/static/js/main.b4a3113e.js",
+    "index.html": "/multra/index.html",
+    "main.630a4b7c.css.map": "/multra/static/css/main.630a4b7c.css.map",
+    "main.b4a3113e.js.map": "/multra/static/js/main.b4a3113e.js.map"
   },
   "entrypoints": [
     "static/css/main.630a4b7c.css",
